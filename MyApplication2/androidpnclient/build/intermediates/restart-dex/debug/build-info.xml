@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="23"
+    density="420dpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="11295837970932"
+    token="-4686042087985608292"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="22905" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="4623" />
+    <task
+        name="verifier"
+        duration="842" />
+
+    <artifact
+        location="D:\AndroidSample\MyApplication2\androidpnclient\build\outputs\apk\androidpnclient-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="11295837970932"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="D:\AndroidSample\MyApplication2\androidpnclient\build\outputs\apk\androidpnclient-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

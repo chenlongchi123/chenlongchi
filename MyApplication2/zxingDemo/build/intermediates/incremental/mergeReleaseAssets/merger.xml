@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\AndroidSample\MyApplication2\zxingDemo\src\main\assets"/><source path="D:\AndroidSample\MyApplication2\zxingDemo\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="D:\AndroidSample\MyApplication2\zxingDemo\src\release\assets"/></dataSet></merger>

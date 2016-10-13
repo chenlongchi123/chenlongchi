@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\AndroidSample\\MyApplication2\\zxingDemo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\scan_light.png",
+        "source": "D:\\AndroidSample\\MyApplication2\\zxingDemo\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\scan_light.png"
+    },
+    {
+        "merged": "D:\\AndroidSample\\MyApplication2\\zxingDemo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\btn_back_normal.png",
+        "source": "D:\\AndroidSample\\MyApplication2\\zxingDemo\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\btn_back_normal.png"
+    },
+    {
+        "merged": "D:\\AndroidSample\\MyApplication2\\zxingDemo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\btn_back_press.png",
+        "source": "D:\\AndroidSample\\MyApplication2\\zxingDemo\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\btn_back_press.png"
+    },
+    {
+        "merged": "D:\\AndroidSample\\MyApplication2\\zxingDemo\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\AndroidSample\\MyApplication2\\zxingDemo\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_launcher.png"
+    }
+]

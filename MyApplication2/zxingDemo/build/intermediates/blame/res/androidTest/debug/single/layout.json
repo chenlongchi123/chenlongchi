@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\AndroidSample\\MyApplication2\\zxingDemo\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_main.xml",
+        "source": "D:\\AndroidSample\\MyApplication2\\zxingDemo\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidSample\\MyApplication2\\zxingDemo\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\capture.xml",
+        "source": "D:\\AndroidSample\\MyApplication2\\zxingDemo\\build\\intermediates\\bundles\\debug\\res\\layout\\capture.xml"
+    }
+]

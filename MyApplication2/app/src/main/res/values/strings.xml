@@ -1,0 +1,27 @@
+<resources>
+    <string name="network_check">当前网络不可用</string>
+    <string name="app_name">My12306</string>
+    <string name="action_settings" />
+
+    <string-array name="my_list_data">
+        <item>我的联系人</item>
+        <item>我的账户</item>
+        <item>我的密码</item>
+    </string-array>
+    <string-array name="contact_type_man">
+        <item>成人</item>
+        <item>学生</item>
+        <item>儿童</item>
+        <item>其他</item>
+    </string-array>
+    <string-array name="contact_type">
+        <item>身份证</item>
+        <item>结婚证</item>
+        <item>军人证</item>
+        <item>其他</item>
+    </string-array>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

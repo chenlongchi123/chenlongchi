@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/layoutMain"
+    tools:context="com.example.chen.myapplication.MainActivity">
+
+    <android.support.v7.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?attr/colorPrimary"
+        android:theme="?attr/actionBarTheme"
+        android:minHeight="?attr/actionBarSize"
+        android:id="@+id/toolbar">
+    </android.support.v7.widget.Toolbar>
+    <TextView
+        android:text="北京"
+        android:gravity="right"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvAdd"
+        android:layout_alignParentLeft="true"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="100dp"
+        android:textColor="@color/blue_white"
+        android:textSize="@dimen/login_font" />
+
+    <TextView
+        android:text="退出"
+        android:gravity="right"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvExit"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="10dp"
+        android:textColor="@color/blue_white"
+        android:textSize="@dimen/login_font"
+     />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/linearLayout"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+       >
+
+        <TextView
+            android:text="购票"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:textColor="@color/blue"
+            android:id="@+id/tvTicket"
+            android:background="@drawable/cab_background_top_mainbar"
+            android:gravity="center"/>
+
+        <TextView
+            android:text="订单"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:id="@+id/tvOrder"
+            android:layout_weight="1"
+            android:textColor="@color/blue"
+            android:gravity="center"
+            android:background="@color/possible_result_points" />
+
+        <TextView
+            android:text="我的"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:id="@+id/tvMy"
+            android:layout_weight="1"
+            android:textColor="@color/blue"
+            android:gravity="center"
+            android:background="@color/orange" />
+    </LinearLayout>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/pager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/toolbar"
+        android:layout_above="@+id/linearLayout" />
+
+
+
+
+</RelativeLayout>
